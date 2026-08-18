@@ -1,5 +1,5 @@
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://i.pinimg.com/736x/81/0d/56/810d5634bb73f3e2151331092612bef3.jpg"  />
+  <img data-importer="image" width= "900" height= "300"  src="https://i.pinimg.com/736x/81/0d/56/810d5634bb73f3e2151331092612bef3.jpg"  />
 </div>
 
 ###
@@ -53,6 +53,12 @@
 
 ###
 
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=valoardev&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" />
+
+</div>
+
 <h4 data-importer="text" align="left">👨‍💻Sobre mim ...</h4>
 
 ###
@@ -68,3 +74,21 @@
 </div>
 
 ###
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=valoardev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+</div>
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=valoardev&theme=tokyonight" />
+
+</div>
+
+
