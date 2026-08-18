@@ -65,20 +65,18 @@
 
 <h4 data-importer="text" align="left">Entusiasta por Tecnologia da Informação, com interesse em programação e desenvolvimento de software.<br><br>Atualmente, estudo e pratico lógica de programação, desenvolvimento, automação e diferentes linguagens, explorando Linux... Busco transformar meus conhecimentos em projetos práticos e aprimorar continuamente minhas habilidades.<br><br>Também tenho experiência com Suporte Técnico e ambientes de TI, contribuindo para minha capacidade de resolver problemas e aprender de forma contínua.<br><br>🚀 Meu objetivo é evoluir constantemente, construir projetos cada vez mais completos e ampliar meus conhecimentos em tecnologia.<br><br>"Aprender a programar é aprender a resolver problemas."</h4>
 
-## 🐍 Minhas contribuições
+## 🐍 My Contributions
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/valoardev/valoardev/output/github-contribution-grid-snake.svg" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/valoardev/valoardev/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/valoardev/valoardev/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/valoardev/valoardev/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
-###
+<sub>powered by caffeine, curiosity, and way too many AI subscriptions</sub>
 
-<div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/21gyanzsizpyreqj62yt4ws3a">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21gyanzsizpyreqj62yt4ws3a&count=1&unique=true" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ## 🔥 GitHub Streak
