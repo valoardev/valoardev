@@ -46,14 +46,14 @@
     <circle cx="60" cy="56" r="5" fill="#F87171"/>
     <circle cx="78" cy="56" r="5" fill="#FBBF24"/>
     <circle cx="96" cy="56" r="5" fill="#34D399"/>
-    <text x="270" y="60" text-anchor="middle" font-family="JetBrains Mono, Fira Code, monospace" font-size="12" fill="#5B6B8C">gabriel@dev:~</text>
+    <text x="270" y="60" text-anchor="middle" font-family="JetBrains Mono, Fira Code, monospace" font-size="12" fill="#5B6B8C">valoar@dev:~</text>
 
     <g font-family="JetBrains Mono, Fira Code, monospace" font-size="16" fill="#E5E7EB">
       <text x="60" y="108"><tspan fill="#34D399">$</tspan> whoami</text>
       <text x="60" y="136" fill="#38BDF8" font-weight="600">Gabriel Valois</text>
       <text x="60" y="164"><tspan fill="#34D399">$</tspan> cat sobre.txt</text>
-      <text x="60" y="192" fill="#9CA3AF">Entusiasta em TI &amp; automação</text>
-      <text x="60" y="214" fill="#9CA3AF">explorando Linux e código</text>
+      <text x="60" y="192" fill="#9CA3AF">Entusiasta em TI &amp; desenvolvimento</text>
+      <text x="60" y="214" fill="#9CA3AF">explorando Programação</text>
       <rect x="60" y="222" width="10" height="16" fill="#22D3AE">
         <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
       </rect>
