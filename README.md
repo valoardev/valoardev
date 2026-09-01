@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Gabriel+Valois+%F0%9F%91%8B;Entusiasta+em+Tecnologia+da+Informa%C3%A7%C3%A3o;Estudante+de+Programa%C3%A7%C3%A3o+%26+Automa%C3%A7%C3%A3o;Explorando+o+mundo+Linux+%F0%9F%90%A7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=800&lines=Hey+%F0%9F%91%8B%2C+I%27m+Gabriel+Valois;Entusiasta+em+Tecnologia+da+Informa%C3%A7%C3%A3o;Explorando+o+mundo.+Codificando+ideias.+Desenvolvendo+o+futuro." alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -76,7 +76,7 @@ Também tenho experiência com Suporte Técnico e ambientes de TI, o que contrib
 <h3 align="center">🔥 GitHub Streak</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=valoardev&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=valoardev&background=0D1117&border=0E75B6&stroke=0E75B6&ring=0E75B6&fire=00BFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=90&section=footer" width="100%" />
