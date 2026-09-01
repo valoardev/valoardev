@@ -1,0 +1,64 @@
+<svg viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="280" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0B1120"/>
+      <stop offset="1" stop-color="#101B2D"/>
+    </linearGradient>
+    <linearGradient id="accentLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#22D3AE"/>
+    </linearGradient>
+    <clipPath id="cardClip">
+      <rect x="0" y="0" width="900" height="280" rx="18"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#cardClip)">
+    <rect width="900" height="280" fill="url(#bg)"/>
+
+    <!-- circuito decorativo à direita -->
+    <g stroke="#1E2A42" stroke-width="2" fill="none" opacity="0.9">
+      <path d="M620 0 V70 H700 V140 H780 V280"/>
+      <path d="M700 0 V40 H760 V100 H900"/>
+      <path d="M900 190 H820 V120 H900"/>
+      <path d="M560 280 V220 H640 V180 H900"/>
+    </g>
+    <g fill="#38BDF8">
+      <circle cx="620" cy="70" r="4"/>
+      <circle cx="700" cy="140" r="4"/>
+      <circle cx="760" cy="100" r="4"/>
+      <circle cx="820" cy="120" r="4"/>
+      <circle cx="640" cy="180" r="4"/>
+    </g>
+    <g stroke="#22D3AE" stroke-width="2" fill="none" opacity="0.7">
+      <path d="M780 140 H900" stroke-dasharray="6 8">
+        <animate attributeName="stroke-dashoffset" from="0" to="-28" dur="1.4s" repeatCount="indefinite"/>
+      </path>
+      <path d="M900 40 H760" stroke-dasharray="6 8">
+        <animate attributeName="stroke-dashoffset" from="0" to="-28" dur="1.8s" repeatCount="indefinite"/>
+      </path>
+    </g>
+
+    <!-- janela de terminal -->
+    <rect x="40" y="40" width="470" height="200" rx="12" fill="#0F1729" stroke="#233150" stroke-width="1.5"/>
+    <rect x="40" y="40" width="470" height="32" rx="12" fill="#141F38"/>
+    <rect x="40" y="60" width="470" height="12" fill="#141F38"/>
+    <circle cx="60" cy="56" r="5" fill="#F87171"/>
+    <circle cx="78" cy="56" r="5" fill="#FBBF24"/>
+    <circle cx="96" cy="56" r="5" fill="#34D399"/>
+    <text x="270" y="60" text-anchor="middle" font-family="JetBrains Mono, Fira Code, monospace" font-size="12" fill="#5B6B8C">gabriel@dev:~</text>
+
+    <g font-family="JetBrains Mono, Fira Code, monospace" font-size="16" fill="#E5E7EB">
+      <text x="60" y="108"><tspan fill="#34D399">$</tspan> whoami</text>
+      <text x="60" y="136" fill="#38BDF8" font-weight="600">Gabriel Valois</text>
+      <text x="60" y="164"><tspan fill="#34D399">$</tspan> cat sobre.txt</text>
+      <text x="60" y="192" fill="#9CA3AF">Entusiasta em TI &amp; automação</text>
+      <text x="60" y="214" fill="#9CA3AF">explorando Linux e código</text>
+      <rect x="60" y="222" width="10" height="16" fill="#22D3AE">
+        <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <rect x="40" y="40" width="470" height="200" rx="12" fill="none" stroke="url(#accentLine)" stroke-width="1.5" opacity="0.5"/>
+  </g>
+</svg>
