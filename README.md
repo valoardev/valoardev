@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="600" src="https://raw.githubusercontent.com/valoardev/valoardev/main/assets/banner.svg" />
+  <img width="950" src="https://raw.githubusercontent.com/valoardev/valoardev/main/assets/banner.svg" />
 </div>
 
 <div align="center">
